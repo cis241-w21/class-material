@@ -24,10 +24,13 @@ using ssh since we'll be accessing EOS frequently.
 
 3. Start up the VPN.  Follow the
    [VPN instructions](https://www.gvsu.edu/it/downloading-installing-and-setting-up-pulse-secure-for-222.htm).
-   You only need to download/install 1x. 
+   You only need to download/install 1x.  After that if you want to connect you just need
+   to run it.  If you are on campus in an academic building, the VPN is typically not
+   necessary.
 
 4. Try connecting via ssh.  Type into the terminal
-   `ssh userid@35.39.165.xx` where `xx` is a number between 61 and 91.
+   `ssh userid@35.39.165.xx` where `xx` is a number between 61 and 91 and `userid`
+   is whatever your GVSU username is.
 
    Each of these #s correspond to a different physical computer in the EOS lab (these are for eos01
    through eos31).
@@ -49,12 +52,14 @@ using ssh since we'll be accessing EOS frequently.
    For all of the EOS machines, these are `eosXX.cis.gvsu.edu` where `XX` is 01 through 31.
 
    So, instead of running `ssh userid@35.39.165.xx` we should be able to run
-   `ssh userid@eosXX.cis.gvsu.edu`. 
+   `ssh userid@eosXX.cis.gvsu.edu` (again `userid` should be replaced with your
+   GVSU username and `XX` replaced with the appropriate number.
 
    
    This is where the process splits depending on whether you are on Mac/Linux or
    WSL.  Note, there's **no** reason the process should be different, but WSL is 
-   still fairly new and occasionally buggy.
+   still fairly new and occasionally buggy.  Like above `userid` should be replaced
+   with your GVSU username.
 
    * Mac/Linux users: `run userid@eosXX.cis.gvsu.edu` where `XX` is some number
      between 01 and 31.  Then, type `exit` to disconnect from the remote machine.
