@@ -24,7 +24,7 @@ using ssh since we'll be accessing EOS frequently.
 
 3. Start up the VPN.  Follow the
    [VPN instructions](https://www.gvsu.edu/it/downloading-installing-and-setting-up-pulse-secure-for-222.htm).
-   You only need to download/install 1x.  After that, just jump to step 7.
+   You only need to download/install 1x. 
 
 4. Try connecting via ssh.  Type into the terminal
    `ssh userid@35.39.165.xx` where `xx` is a number between 61 and 91.
