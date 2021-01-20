@@ -61,7 +61,7 @@ using ssh since we'll be accessing EOS frequently.
    still fairly new and occasionally buggy.  Like above `userid` should be replaced
    with your GVSU username.
 
-   * Mac/Linux users: `run userid@eosXX.cis.gvsu.edu` where `XX` is some number
+   * Mac/Linux users: `ssh userid@eosXX.cis.gvsu.edu` where `XX` is some number
      between 01 and 31.  Then, type `exit` to disconnect from the remote machine.
    * Windows users:
      1. run `cd ~/.ssh`
