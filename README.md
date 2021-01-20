@@ -45,7 +45,7 @@ at the start of each week.
 
 | Week | Date          | Topics | Activities | TODOs |
 | ---- | ------------- | ------ | ---------- | --------- |
-|  01  | 01/18-01/22 | intro [video](https://classtranscribe.com/video?id=c1de6e62-c98f-4899-9772-35add7fe70e0) <br> ssh <br> navigating linux  <br> file transfer   |  | Create a [Piazza account](https://piazza.com/class/kk2pgnmcqcl5n8) <br> Create a [github](https://github.com/) account (if you do not already have one) <br> [Course Survey due Monday 01/25](https://forms.gle/V9LwBgupHKmW19186) <br> Windows Users Only:  [Enable the Linux Subsystem](wsl-guide.md) by Wed 01/20 |
+|  01  | 01/18-01/22 | intro [video](https://classtranscribe.com/video?id=c1de6e62-c98f-4899-9772-35add7fe70e0) <br> ssh <br> navigating linux  <br> file transfer   | [minilab 0](minilabs/minilab00.md) | Create a [Piazza account](https://piazza.com/class/kk2pgnmcqcl5n8) <br> Create a [github](https://github.com/) account (if you do not already have one) <br> [Course Survey due Monday 01/25](https://forms.gle/V9LwBgupHKmW19186) <br> Windows Users Only:  [Enable the Linux Subsystem](wsl-guide.md) by Wed 01/20 |
 |  02  | 01/25 - 01/29 | sshkeys, script/history, IO redirection, linux utilities |  |  |
 |  03  | 02/01 - 02/05 | compression, grep, git overview | | |
 |  04  | 02/08 - 02/12 | git intro, git branching, git remotes, git merging |  |  |
