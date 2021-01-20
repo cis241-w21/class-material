@@ -115,7 +115,7 @@ This course is subject to the GVSU policies listed at
   some cases, also through Github Classroom.  More details will be
   provided with the first assignment, but you will need to create a github
   account.  Some minilabs will be awarded credit based on participation
-  in the asynchronous Friday meetings.
+  in the synchronous Monday meetings.
 * All code submitted should be properly commented.
 * Late assignments will generally not be accepted,
   except in extenuating circumstances (e.g. severe illness, etc.).
@@ -160,14 +160,14 @@ there are bugs.  If you believe there is an issue
 with the autograder, please post a private note on Piazza ASAP.
 
 ### Minilabs
-The Friday synchronous class sessions will be set aside to
+The Monday synchronous class sessions will be set aside to
 complete minilabs and ask questions regarding the asychronous material
 for the week.  Attendance is expected, and, in many cases, the
 default way for giving credit may be based on attendance,
 but minilabs later in the semester
 that focus more on
 C may have autograders to help you make sure your code is correct.
-If you are unable to attend a Friday synchronous session due to
+If you are unable to attend a Monday synchronous session due to
 extenuating circumstances,
 you will need to make alternate arrangements with the instructor
 to prove satisfactory completion.
@@ -179,7 +179,7 @@ For some minilabs, I may ask a couple students to walkthrough their
 attempt with the class.
 
 One minilab will be dropped -- think of this like a free
-miss day for the Friday session.  Please don't use this just to
+miss day for the Monday session.  Please don't use this just to
 skip, save it for when you need it (e.g. oversleep alarm clock,
 forget to hop on, etc.).
 
