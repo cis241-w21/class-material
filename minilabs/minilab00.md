@@ -18,8 +18,8 @@ using ssh since we'll be accessing EOS frequently.
 2. Open up a terminal:
    * On Mac:  spotlight search for terminal - you'll likely want
      to set to keep in the dock since we'll use it so much
-   * On Windows:  This is the WSL.  Make sure you've followed the
-     [instructions to install WSL](wsl-guide.md).  Click the start button and search for
+   * On Windows:  This is the WSL.  Make sure you've followed the [instructions to install WSL](wsl-guide.md).
+     Click the start button and search for
      Ubuntu.  Select it and a terminal should open.
 
 3. Start up the VPN.  Follow the
