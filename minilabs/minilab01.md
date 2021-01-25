@@ -5,7 +5,7 @@
 2. Run
    <small>`wget https://raw.githubusercontent.com/fivethirtyeight/data/master/avengers/avengers.csv`</small>
    
-   Note, `wget` is handy command we haven't talked about -- it will go
+   Note, `wget` is handy command -- it will go
    grab a datafile from the web (in this case from 538's github repo).
 3. Use `exit` to disconnect (now you'll be back on your local machine)
 4. Use `scp` to transfer the file from eos to your local machine.
