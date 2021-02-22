@@ -19,7 +19,8 @@
 14. Merge the branch you made back into master.
 15. You should get a merge conflict which you'll need to resolve
     by manually editing the file with the conflict or using
-    a mergetool such as `meld`.  You can keep whatever lines you
+    a mergetool such as `meld` (whatever you prefer -- you do
+    not need to use `meld`).  You can keep whatever lines you
     choose.
 16. Don't forget to add and commit to finish the merge.
 17. Pop yor stash made in step 6
