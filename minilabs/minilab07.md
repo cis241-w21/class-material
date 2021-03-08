@@ -32,10 +32,11 @@ where
 
 * `username`:  only alphanumeric characters and the period,
   the period cannot be the first or last, and cannot appear
-  more than once in a row
+  consecutively (aka, you cannot have two periods next to each
+  other
 * `domain`:  only alphanumeric characters, period, and hypen,
   the period and hypen cannot be the first or last and cannot
-  appear more than once in a row (`-.` and `.-` are also not
+  appear consecutively (`-.` and `.-` are also not
   allowed).
 * `tld`: can only contain upper and lowercase letters, must be
   at least 2 characters
