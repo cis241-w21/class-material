@@ -20,8 +20,10 @@ Create a program that:
    format will be a single line with 2 integers,
    nrows and ncols, respectively.  The following
    lines will contain the elevation for a specific
-   cell in the map, input one per line in row major
-   format.  Example:
+   cell in the map, with each row as it's own line
+   of space separate integers.
+
+   Example:
    ```
    3 4
    1 5 3 2
